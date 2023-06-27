@@ -9,7 +9,7 @@ class DataBase:
         self.connection = psycopg2.connect(
             host="localhost",
             user="postgres",
-            password="oketo2002.",
+            password="main",
             database="Desarrollo II"
 
         )
